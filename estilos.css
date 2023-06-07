@@ -1,0 +1,55 @@
+.cabecalh0{
+
+    font-family:'Times New Roman', Times, serif;
+    text-align:justify;
+    font-size:medium;
+    background-color:cornflowerblue;
+}
+
+.corpo{
+  background-color:burlywood;
+  text-align:justify;
+  font-size:smaller;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.rodape{
+   font-family: 'Times New Roman', Times, serif;
+   text-align:justify;
+   font-size:medium;
+   background-color:blanchedalmond;
+
+}
+
+
+.asa{
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size:medium;
+
+    background-color: rgb(225, 121, 121);
+}
+
+.amor{
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size: medium;
+    background-color: darkolivegreen;
+}
+
+table{
+    border: 1px solid rgb(5, 5, 5);
+    background-color:rgb(191, 227, 218);
+  }
+
+table td{
+
+    border: 1px solid;
+}
+table th{
+    border: 1px solid;
+}
+
+.img{
+    text-align: center;
+}
